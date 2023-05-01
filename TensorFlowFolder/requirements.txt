@@ -1,0 +1,9 @@
+jupyterlab
+moviepy
+matplotlib
+sk-video
+scipy
+#mediapipe
+zarr
+h5py
+jiwer
